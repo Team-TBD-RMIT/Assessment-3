@@ -20,26 +20,14 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="2829a1bb-6d9a-4d5d-b6ec-e7322e9b2f40" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/media/meetings/actions/07-07-22_Actions" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/media/meetings/actions/12-07-22_Actions" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/media/meetings/actions/14-07-22_Actions" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/media/meetings/actions/27-06-22_Actions" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/media/meetings/actions/30-06-22_Actions" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/media/meetings/agenda/04-07-22_Agenda" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/media/meetings/agenda/07-07-22_Agenda" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/media/meetings/agenda/12-07-22_Agenda" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/media/meetings/agenda/14-07-22_Agenda" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/media/meetings/agenda/27-06-22_Agenda" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/media/meetings/agenda/30-06-22_Agenda" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/media/meetings/actions/04-07-22_Actions" beforeDir="false" afterPath="$PROJECT_DIR$/media/meetings/actions/04-07-22_Actions" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/media/meetings/actions/04-07-22_Actions.docx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/media/meetings/actions/07-07-22_Actions.docx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/media/meetings/actions/12-07-22_Actions.docx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/media/meetings/actions/14-07-22_Actions.docx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/media/meetings/actions/27-06-22_Actions.docx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/media/meetings/actions/30-06-22_Actions.docx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/media/meetings/actions/~$-07-22_Actions.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ITTechnologies.html" beforeDir="false" afterPath="$PROJECT_DIR$/ITTechnologies.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ITWork.html" beforeDir="false" afterPath="$PROJECT_DIR$/ITWork.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/StyleSheet.css" beforeDir="false" afterPath="$PROJECT_DIR$/StyleSheet.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/groupReflection.html" beforeDir="false" afterPath="$PROJECT_DIR$/groupReflection.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/industryData.html" beforeDir="false" afterPath="$PROJECT_DIR$/industryData.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/projectIdea.html" beforeDir="false" afterPath="$PROJECT_DIR$/projectIdea.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/tools.html" beforeDir="false" afterPath="$PROJECT_DIR$/tools.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -86,7 +74,7 @@
       <updated>1657101660246</updated>
       <workItem from="1657101661445" duration="50000" />
       <workItem from="1657102098048" duration="360000" />
-      <workItem from="1657849454699" duration="5382000" />
+      <workItem from="1657849454699" duration="8390000" />
     </task>
     <servers />
   </component>
@@ -109,9 +97,9 @@
       <screen x="1920" y="96" width="1920" height="1040" />
     </state>
     <state x="2619" y="417" key="#com.intellij.fileTypes.FileTypeChooser/1920.96.1920.1040/0.0.1920.1040@1920.96.1920.1040" timestamp="1657893095239" />
-    <state x="2684" y="539" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1657892595455">
+    <state x="2684" y="539" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1657894646152">
       <screen x="1920" y="96" width="1920" height="1040" />
     </state>
-    <state x="2684" y="539" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/1920.96.1920.1040/0.0.1920.1040@1920.96.1920.1040" timestamp="1657892595455" />
+    <state x="2684" y="539" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/1920.96.1920.1040/0.0.1920.1040@1920.96.1920.1040" timestamp="1657894646152" />
   </component>
 </project>
