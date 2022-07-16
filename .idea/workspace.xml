@@ -21,13 +21,8 @@
   <component name="ChangeListManager">
     <list default="true" id="2829a1bb-6d9a-4d5d-b6ec-e7322e9b2f40" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ITTechnologies.html" beforeDir="false" afterPath="$PROJECT_DIR$/ITTechnologies.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ITWork.html" beforeDir="false" afterPath="$PROJECT_DIR$/ITWork.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/StyleSheet.css" beforeDir="false" afterPath="$PROJECT_DIR$/StyleSheet.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/groupReflection.html" beforeDir="false" afterPath="$PROJECT_DIR$/groupReflection.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/industryData.html" beforeDir="false" afterPath="$PROJECT_DIR$/industryData.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/projectIdea.html" beforeDir="false" afterPath="$PROJECT_DIR$/projectIdea.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/tools.html" beforeDir="false" afterPath="$PROJECT_DIR$/tools.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -74,7 +69,8 @@
       <updated>1657101660246</updated>
       <workItem from="1657101661445" duration="50000" />
       <workItem from="1657102098048" duration="360000" />
-      <workItem from="1657849454699" duration="8390000" />
+      <workItem from="1657849454699" duration="8623000" />
+      <workItem from="1657974344007" duration="2752000" />
     </task>
     <servers />
   </component>
@@ -91,15 +87,16 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="WindowStateProjectService">
     <state x="2619" y="417" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1657893095239">
       <screen x="1920" y="96" width="1920" height="1040" />
     </state>
     <state x="2619" y="417" key="#com.intellij.fileTypes.FileTypeChooser/1920.96.1920.1040/0.0.1920.1040@1920.96.1920.1040" timestamp="1657893095239" />
-    <state x="2684" y="539" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1657894646152">
+    <state x="2684" y="539" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1657896916409">
       <screen x="1920" y="96" width="1920" height="1040" />
     </state>
-    <state x="2684" y="539" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/1920.96.1920.1040/0.0.1920.1040@1920.96.1920.1040" timestamp="1657894646152" />
+    <state x="2684" y="539" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/1920.96.1920.1040/0.0.1920.1040@1920.96.1920.1040" timestamp="1657896916409" />
   </component>
 </project>
