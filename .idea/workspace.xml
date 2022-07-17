@@ -19,7 +19,12 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2829a1bb-6d9a-4d5d-b6ec-e7322e9b2f40" name="Default Changelist" comment="" />
+    <list default="true" id="2829a1bb-6d9a-4d5d-b6ec-e7322e9b2f40" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/assets/burningGlassData/README" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/industryData.html" beforeDir="false" afterPath="$PROJECT_DIR$/industryData.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tools.html" beforeDir="false" afterPath="$PROJECT_DIR$/tools.html" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -67,7 +72,7 @@
       <workItem from="1657849454699" duration="8623000" />
       <workItem from="1657974344007" duration="3085000" />
       <workItem from="1658046854407" duration="803000" />
-      <workItem from="1658047669970" duration="2083000" />
+      <workItem from="1658047669970" duration="6267000" />
     </task>
     <servers />
   </component>
@@ -91,9 +96,9 @@
       <screen x="1920" y="96" width="1920" height="1040" />
     </state>
     <state x="2619" y="417" key="#com.intellij.fileTypes.FileTypeChooser/1920.96.1920.1040/0.0.1920.1040@1920.96.1920.1040" timestamp="1658059820606" />
-    <state x="2684" y="539" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1658059833964">
+    <state x="2684" y="539" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1658061555131">
       <screen x="1920" y="96" width="1920" height="1040" />
     </state>
-    <state x="2684" y="539" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/1920.96.1920.1040/0.0.1920.1040@1920.96.1920.1040" timestamp="1658059833964" />
+    <state x="2684" y="539" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/1920.96.1920.1040/0.0.1920.1040@1920.96.1920.1040" timestamp="1658061555131" />
   </component>
 </project>
