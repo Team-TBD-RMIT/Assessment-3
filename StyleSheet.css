@@ -23,7 +23,7 @@ body {
     z-index: 1;
     top: 0;
     left: 0;
-    background-color: #437fc7;
+    background-color: #437fC7;
     overflow-x: hidden;
     padding-top: 20px;
 }
@@ -34,9 +34,9 @@ body {
     font-size: 25px;
     color: white;
     display: block;
-    margin: 10pt;
+    margin: 20px;
     margin-top: 20pt;
-    background-color: #6daffe;
+    background-color: #6DAFFE;
     box-shadow: 0 0 10px midnightblue;
     border-radius: 5px;
 }
@@ -47,7 +47,7 @@ body {
 
 .main {
     margin-left: 300px; /* Same as the width of the sidenav */
-    font-size: 28px; /* Increased text to enable scrolling */
+    font-size: 25px; /* Increased text to enable scrolling */
     padding: 0px 10px;
 }
 
@@ -60,7 +60,7 @@ body {
     margin: 20pt;
     text-align: center;
     font-size: 40pt;
-    color: #F8F8F8;
+    color: white;
 }
 
 .iconImg{
@@ -135,10 +135,10 @@ p{
     width: 100%;
 }
 
-ul li, ol li{
+
+.small-li{
     font-size: 20px;
 }
-
 
 ul{
     margin-top: 10px;
