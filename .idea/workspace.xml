@@ -23,10 +23,15 @@
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/ITTechnologies.html" beforeDir="false" afterPath="$PROJECT_DIR$/ITTechnologies.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/ITWork.html" beforeDir="false" afterPath="$PROJECT_DIR$/ITWork.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Images/Icons/edit.png" beforeDir="false" afterPath="$PROJECT_DIR$/Images/Icons/edit.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Images/Icons/internet.png" beforeDir="false" afterPath="$PROJECT_DIR$/Images/Icons/internet.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Images/Icons/people.png" beforeDir="false" afterPath="$PROJECT_DIR$/Images/Icons/people.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Images/Icons/portfolio.png" beforeDir="false" afterPath="$PROJECT_DIR$/Images/Icons/portfolio.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Images/Icons/user.png" beforeDir="false" afterPath="$PROJECT_DIR$/Images/Icons/user.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/StyleSheet.css" beforeDir="false" afterPath="$PROJECT_DIR$/StyleSheet.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/groupReflection.html" beforeDir="false" afterPath="$PROJECT_DIR$/groupReflection.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/industryData.html" beforeDir="false" afterPath="$PROJECT_DIR$/industryData.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/media/references.html" beforeDir="false" afterPath="$PROJECT_DIR$/references.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/projectIdea.html" beforeDir="false" afterPath="$PROJECT_DIR$/projectIdea.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/tools.html" beforeDir="false" afterPath="$PROJECT_DIR$/tools.html" afterDir="false" />
     </list>
@@ -55,6 +60,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../A1" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -82,7 +88,8 @@
       <workItem from="1657849454699" duration="8623000" />
       <workItem from="1657974344007" duration="3085000" />
       <workItem from="1658046854407" duration="803000" />
-      <workItem from="1658047669970" duration="11489000" />
+      <workItem from="1658047669970" duration="12367000" />
+      <workItem from="1658116701421" duration="11869000" />
     </task>
     <servers />
   </component>
@@ -106,9 +113,17 @@
       <screen x="1920" y="96" width="1920" height="1040" />
     </state>
     <state x="2619" y="417" key="#com.intellij.fileTypes.FileTypeChooser/1920.96.1920.1040/0.0.1920.1040@1920.96.1920.1040" timestamp="1658059820606" />
-    <state x="2684" y="539" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1658073209084">
+    <state x="2660" y="370" key="FileChooserDialogImpl" timestamp="1658121017027">
       <screen x="1920" y="96" width="1920" height="1040" />
     </state>
-    <state x="2684" y="539" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/1920.96.1920.1040/0.0.1920.1040@1920.96.1920.1040" timestamp="1658073209084" />
+    <state x="2660" y="370" key="FileChooserDialogImpl/1920.96.1920.1040/0.0.1920.1040@1920.96.1920.1040" timestamp="1658121017027" />
+    <state x="2684" y="539" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1658128771172">
+      <screen x="1920" y="96" width="1920" height="1040" />
+    </state>
+    <state x="2684" y="539" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/1920.96.1920.1040/0.0.1920.1040@1920.96.1920.1040" timestamp="1658128771172" />
+    <state x="2543" y="321" width="672" height="678" key="search.everywhere.popup" timestamp="1658121938397">
+      <screen x="1920" y="96" width="1920" height="1040" />
+    </state>
+    <state x="2543" y="321" width="672" height="678" key="search.everywhere.popup/1920.96.1920.1040/0.0.1920.1040@1920.96.1920.1040" timestamp="1658121938397" />
   </component>
 </project>
