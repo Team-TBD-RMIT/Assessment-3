@@ -21,7 +21,6 @@
   <component name="ChangeListManager">
     <list default="true" id="2829a1bb-6d9a-4d5d-b6ec-e7322e9b2f40" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/StyleSheet.css" beforeDir="false" afterPath="$PROJECT_DIR$/StyleSheet.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -77,7 +76,7 @@
       <workItem from="1657974344007" duration="3085000" />
       <workItem from="1658046854407" duration="803000" />
       <workItem from="1658047669970" duration="12367000" />
-      <workItem from="1658116701421" duration="17155000" />
+      <workItem from="1658116701421" duration="17973000" />
     </task>
     <servers />
   </component>
@@ -105,10 +104,10 @@
       <screen x="1920" y="96" width="1920" height="1040" />
     </state>
     <state x="2660" y="370" key="FileChooserDialogImpl/1920.96.1920.1040/0.0.1920.1040@1920.96.1920.1040" timestamp="1658121017027" />
-    <state x="2684" y="539" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1658134016227">
+    <state x="2684" y="539" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1658135083318">
       <screen x="1920" y="96" width="1920" height="1040" />
     </state>
-    <state x="2684" y="539" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/1920.96.1920.1040/0.0.1920.1040@1920.96.1920.1040" timestamp="1658134016227" />
+    <state x="2684" y="539" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/1920.96.1920.1040/0.0.1920.1040@1920.96.1920.1040" timestamp="1658135083318" />
     <state x="2543" y="321" width="672" height="678" key="search.everywhere.popup" timestamp="1658121938397">
       <screen x="1920" y="96" width="1920" height="1040" />
     </state>
