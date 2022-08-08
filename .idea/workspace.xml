@@ -1,5 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="BranchesTreeState">
     <expand>
       <path>
@@ -20,7 +23,49 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="2829a1bb-6d9a-4d5d-b6ec-e7322e9b2f40" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/login.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mainStyleSheet.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/product.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/search.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Images/industryData/BGTOCCs.PNG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Images/industryData/LMInsights.PNG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Images/industryData/SPLcatagories.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Images/industryData/Seek.PNG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Images/industryData/positionSPLRank.PNG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Images/industryData/skills.PNG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Images/profile/bronagh.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Images/profile/jobDataCompiled.PNG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Images/profile/malachi.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Images/profile/meg.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Images/profile/patrick.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Images/profile/profilesCompiled.PNG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Images/profile/scott.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/StyleSheet.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/burningGlassData/ExperienceRequirements.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/burningGlassData/README" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/burningGlassData/TopGenericSkills2018.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/burningGlassData/TopITJobTitles2018.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/burningGlassData/TopITSkills2018.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/burningGlassData/TopOccupations2018.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/tmp2.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/media/PDF/Group30-MS.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/media/PDF/Group30.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/loginStyleSheet.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/media/PDF/README" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/media/meetings/actions/04-07-22_Actions" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/media/meetings/actions/07-07-22_Actions" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/media/meetings/actions/12-07-22_Actions" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/media/meetings/actions/14-07-22_Actions" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/media/meetings/actions/27-06-22_Actions" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/media/meetings/actions/30-06-22_Actions" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/media/meetings/agenda/04-07-22_Agenda" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/media/meetings/agenda/07-07-22_Agenda" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/media/meetings/agenda/12-07-22_Agenda" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/media/meetings/agenda/14-07-22_Agenda" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/media/meetings/agenda/27-06-22_Agenda" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/media/meetings/agenda/30-06-22_Agenda" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/media/tmp1.md" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -31,35 +76,47 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="HTML File" />
+        <option value="CSS File" />
       </list>
     </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
   <component name="ProjectId" id="2BZ7GtkEIuZrWZsPO9CtVKDluHf" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">
-    <property name="DefaultHtmlFileTemplate" value="HTML File" />
-    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
-    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../A1" />
-    <property name="node.js.detected.package.eslint" value="true" />
-    <property name="node.js.detected.package.tslint" value="true" />
-    <property name="node.js.path.for.package.eslint" value="project" />
-    <property name="node.js.path.for.package.tslint" value="project" />
-    <property name="node.js.selected.package.eslint" value="(autodetect)" />
-    <property name="node.js.selected.package.tslint" value="(autodetect)" />
-  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "C:/Users/megma/Documents/GitHub/bang4buck",
+    "list.type.of.created.stylesheet": "CSS",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\megma\Documents\GitHub\bang4buck" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\megma\OneDrive\Documents\GitHub\Assessment-2\" />
     </key>
   </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="SvnConfiguration">
     <configuration />
   </component>
@@ -77,11 +134,12 @@
       <workItem from="1658046854407" duration="803000" />
       <workItem from="1658047669970" duration="12367000" />
       <workItem from="1658116701421" duration="17973000" />
+      <workItem from="1659928729484" duration="2874000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
-    <option name="version" value="2" />
+    <option name="version" value="3" />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
     <option name="TAB_STATES">
@@ -93,24 +151,5 @@
         </entry>
       </map>
     </option>
-    <option name="oldMeFiltersMigrated" value="true" />
-  </component>
-  <component name="WindowStateProjectService">
-    <state x="2619" y="417" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1658059820606">
-      <screen x="1920" y="96" width="1920" height="1040" />
-    </state>
-    <state x="2619" y="417" key="#com.intellij.fileTypes.FileTypeChooser/1920.96.1920.1040/0.0.1920.1040@1920.96.1920.1040" timestamp="1658059820606" />
-    <state x="2660" y="370" key="FileChooserDialogImpl" timestamp="1658121017027">
-      <screen x="1920" y="96" width="1920" height="1040" />
-    </state>
-    <state x="2660" y="370" key="FileChooserDialogImpl/1920.96.1920.1040/0.0.1920.1040@1920.96.1920.1040" timestamp="1658121017027" />
-    <state x="2684" y="539" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1658135083318">
-      <screen x="1920" y="96" width="1920" height="1040" />
-    </state>
-    <state x="2684" y="539" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/1920.96.1920.1040/0.0.1920.1040@1920.96.1920.1040" timestamp="1658135083318" />
-    <state x="2543" y="321" width="672" height="678" key="search.everywhere.popup" timestamp="1658121938397">
-      <screen x="1920" y="96" width="1920" height="1040" />
-    </state>
-    <state x="2543" y="321" width="672" height="678" key="search.everywhere.popup/1920.96.1920.1040/0.0.1920.1040@1920.96.1920.1040" timestamp="1658121938397" />
   </component>
 </project>
