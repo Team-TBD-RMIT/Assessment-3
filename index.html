@@ -7,10 +7,10 @@
           content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
     <link rel="stylesheet" href="mainStyleSheet.css">
-    <title>B4B</title>
+    <title>bang4buck.tech</title>
 </head>
 
-<body>
+<body style="background: #04AA6D">
 
 <div class="header">
     <input class="btnLogin" type="button" onclick="location.href = 'login.html';" value="Sign In">
@@ -29,18 +29,20 @@
 </div>
 
 <div class="content">
-       <div class="main-card">
-           <div class="card-container">
-               <p id="catchphrase">Our Bang, Saves your Buck!</p>
-               <label>
-                   <input class="main-input" type="text" placeholder="Search..."/>
-               </label>
-           </div>
-       </div>
+    <div class="main-card">
+        <div class="card-container">
+            <p id="catchphrase">Our Bang, Saves your Buck!</p>
+            <label>
+                <input class="main-input" type="text" placeholder="Search..."/>
+            </label>
+        </div>
+    </div>
 </div>
 
 <script>
-    window.onscroll = function() {myFunction()};
+    window.onscroll = function () {
+        myFunction()
+    };
 
     const navbar = document.getElementById("navbar");
     const sticky = navbar.offsetTop;
