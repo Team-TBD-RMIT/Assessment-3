@@ -1,7 +1,13 @@
 body {
     margin: 0;
+    padding: 0;
     font-size: 28px;
     font-family: Arial, Helvetica, sans-serif;
+}
+
+html{
+    margin: 0;
+    padding: 0;
 }
 
 .header {
@@ -20,7 +26,7 @@ body {
     display: block;
     color: #f2f2f2;
     text-align: center;
-    padding: 14px 16px;
+    padding: 14px 50px;
     text-decoration: none;
     font-size: 17px;
 }
@@ -37,6 +43,7 @@ body {
 
 .content {
     padding: 16px;
+    height: 70vh;
 }
 
 .sticky {
@@ -67,4 +74,45 @@ body {
     float: right;
     font-size: 20px;
     width: 100px;
+}
+
+.nav-input{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 10px;
+    font-size: 30px;
+    border-radius: 10pt 10pt 10pt 10pt;
+}
+
+.main-input{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    font-size: 30px;
+    width: 50%;
+    border-radius: 10pt 10pt 10pt 10pt;
+}
+
+.main-card{
+    display: block;
+    margin: auto;
+    background: orange;
+    width: 50%;
+    height: 200px;
+    position: relative;
+    top: 30%;
+}
+
+.card-container{
+    display: inline-block;
+    width: 100%;
+}
+
+#catchphrase{
+    margin-top: 50px;
+    text-align: center;
+}
+
+#title{
 }
