@@ -122,4 +122,34 @@ html{
 .nav-title{
     display: inline-block;
     float: left;
+    margin-left: 20px;
 }
+
+.filter-selection{
+    background: #cccccc;
+}
+
+.filter-title{
+    display: inline-block;
+    float: left;
+    margin-left: 20px;
+}
+
+.filter-form{
+    display: inline-block;
+    margin: 20px;
+}
+
+.search-product{
+    background: #555555;
+    width: 200px;
+    height: 300px;
+    display: inline-block;
+    text-align: center;
+    margin: auto;
+}
+
+.content-container{
+
+}
+
