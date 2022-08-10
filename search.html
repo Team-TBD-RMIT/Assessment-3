@@ -12,21 +12,45 @@
 
 <body>
 
-<div class="header">
-    <h2>Bang 4 Buck</h2>
-    <p></p>
-</div>
-
 <div class="navbar" id="navbar">
+    <input class="btnLogin" type="button" onclick="location.href = 'login.html';" value="Sign In">
+    <h2 class="nav-title">
+        B4B
+    </h2>
     <label>
         <input class="nav-input" type="text" placeholder="Search...">
     </label>
     <div class="nav-container">
-        <a href="javascript:void(0)">Home</a>
+        <a href="javascript:void(0)" onclick="location.href = 'index.html'">Home</a>
         <a href="javascript:void(0)">Products</a>
         <a href="javascript:void(0)">Customize</a>
         <a href="javascript:void(0)">My List</a>
         <a href="javascript:void(0)">Forum</a>
+    </div>
+    <div class="filter-selection">
+        <p>Sort By</p>
+        <form action="" id="filter">
+            <select name="price" id="price">
+                <option value="" selected disabled hidden>Price</option>
+                <option value="">High-Low</option>
+                <option value="">Low-High</option>
+            </select>
+            <select name="brand" id="brand">
+                <option value="" selected disabled hidden>Brand</option>
+                <option value="">Brand 1</option>
+                <option value="">Brand 2</option>
+                <option value="">Brand 3</option>
+                <option value="">Brand 4</option>
+            </select>
+            <select name="category" id="category">
+                <option value="" selected disabled hidden>Category</option>
+                <option value="">Phones</option>
+                <option value="">Laptops</option>
+                <option value="">Home Appliances</option>
+                <option value="">Watches</option>
+            </select>
+            <input type="submit" value="submit">
+        </form>
     </div>
 </div>
 
