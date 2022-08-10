@@ -12,34 +12,105 @@
 
 <body>
 
-<div class="header">
-    <h2>Bang 4 Buck</h2>
-    <p></p>
-</div>
-
 <div class="navbar" id="navbar">
+    <input class="btnLogin" type="button" onclick="location.href = 'login.html';" value="Sign In">
+    <h2 class="nav-title">
+        B4B
+    </h2>
     <label>
         <input class="nav-input" type="text" placeholder="Search...">
     </label>
     <div class="nav-container">
-        <a href="javascript:void(0)">Home</a>
-        <a href="javascript:void(0)">Products</a>
-        <a href="javascript:void(0)">Customize</a>
-        <a href="javascript:void(0)">My List</a>
-        <a href="javascript:void(0)">Forum</a>
+        <a href="javascript:void(0)" onclick="location.href = 'index.html'">Home</a>
+        <a href="javascript:void(0)" onclick="location.href = 'search.html'">Products</a>
+        <a href="javascript:void(0)" onclick="return confirm('Currently under developement')">Customize</a>
+        <a href="javascript:void(0)" onclick="return confirm('Currently under developement')">My List</a>
+        <a href="javascript:void(0)" onclick="return confirm('Currently under developement')">Forum</a>
+    </div>
+    <div class="filter-selection">
+        <p class="filter-title">Sort By</p>
+        <form class="filter-form" action="" id="frmFilter">
+            <select name="price" id="price">
+                <option value="" selected disabled hidden>Price</option>
+                <option value="">High-Low</option>
+                <option value="">Low-High</option>
+            </select>
+            <select name="brand" id="brand">
+                <option value="" selected disabled hidden>Brand</option>
+                <option value="">Brand 1</option>
+                <option value="">Brand 2</option>
+                <option value="">Brand 3</option>
+                <option value="">Brand 4</option>
+            </select>
+            <select name="category" id="category">
+                <option value="" selected disabled hidden>Category</option>
+                <option value="">Phones</option>
+                <option value="">Laptops</option>
+                <option value="">Home Appliances</option>
+                <option value="">Watches</option>
+            </select>
+            <input type="submit" value="submit">
+        </form>
     </div>
 </div>
 
 <div class="content">
-    <h3>Sticky Navigation Example</h3>
-    <p>The navbar will stick to the top when you reach its scroll position.</p>
-    <p>Some text to enable scrolling.. Lorem ipsum dolor sit amet, illum definitiones no quo, maluisset concludaturque et eum, altera fabulas ut quo. Atqui causae gloriatur ius te, id agam omnis evertitur eum. Affert laboramus repudiandae nec et. Inciderint efficiantur his ad. Eum no molestiae voluptatibus.</p>
-    <p>Some text to enable scrolling.. Lorem ipsum dolor sit amet, illum definitiones no quo, maluisset concludaturque et eum, altera fabulas ut quo. Atqui causae gloriatur ius te, id agam omnis evertitur eum. Affert laboramus repudiandae nec et. Inciderint efficiantur his ad. Eum no molestiae voluptatibus.</p>
-    <p>Some text to enable scrolling.. Lorem ipsum dolor sit amet, illum definitiones no quo, maluisset concludaturque et eum, altera fabulas ut quo. Atqui causae gloriatur ius te, id agam omnis evertitur eum. Affert laboramus repudiandae nec et. Inciderint efficiantur his ad. Eum no molestiae voluptatibus.</p>
-    <p>Some text to enable scrolling.. Lorem ipsum dolor sit amet, illum definitiones no quo, maluisset concludaturque et eum, altera fabulas ut quo. Atqui causae gloriatur ius te, id agam omnis evertitur eum. Affert laboramus repudiandae nec et. Inciderint efficiantur his ad. Eum no molestiae voluptatibus.</p>
-    <p>Some text to enable scrolling.. Lorem ipsum dolor sit amet, illum definitiones no quo, maluisset concludaturque et eum, altera fabulas ut quo. Atqui causae gloriatur ius te, id agam omnis evertitur eum. Affert laboramus repudiandae nec et. Inciderint efficiantur his ad. Eum no molestiae voluptatibus.</p>
-    <p>Some text to enable scrolling.. Lorem ipsum dolor sit amet, illum definitiones no quo, maluisset concludaturque et eum, altera fabulas ut quo. Atqui causae gloriatur ius te, id agam omnis evertitur eum. Affert laboramus repudiandae nec et. Inciderint efficiantur his ad. Eum no molestiae voluptatibus.</p>
-    <p>Some text to enable scrolling.. Lorem ipsum dolor sit amet, illum definitiones no quo, maluisset concludaturque et eum, altera fabulas ut quo. Atqui causae gloriatur ius te, id agam omnis evertitur eum. Affert laboramus repudiandae nec et. Inciderint efficiantur his ad. Eum no molestiae voluptatibus.</p>
+    <div class="content-container">
+        <div class="search-product">
+
+        </div>
+        <div class="search-product">
+
+        </div>
+        <div class="search-product">
+
+        </div>
+        <div class="search-product">
+
+        </div>
+        <div class="search-product">
+
+        </div>
+        <div class="search-product">
+
+        </div>
+        <div class="search-product">
+
+        </div>
+        <div class="search-product">
+
+        </div>
+        <div class="search-product">
+
+        </div>
+        <div class="search-product">
+
+        </div>
+        <div class="search-product">
+
+        </div>
+        <div class="search-product">
+
+        </div>
+        <div class="search-product">
+
+        </div>
+        <div class="search-product">
+
+        </div>
+        <div class="search-product">
+
+        </div>
+        <div class="search-product">
+
+        </div>
+        <div class="search-product">
+
+        </div>
+        <div class="search-product">
+
+        </div>
+    </div>
 </div>
 
 <script>
