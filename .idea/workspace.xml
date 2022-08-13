@@ -36,6 +36,7 @@
     </option>
   </component>
   <component name="Git.Settings">
+    <option name="PUSH_AUTO_UPDATE" value="true" />
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="2BZ7GtkEIuZrWZsPO9CtVKDluHf" />
@@ -48,7 +49,13 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
-    "last_opened_file_path": "C:/Users/megma/Documents/GitHub/bang4buck"
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "C:/Users/megma/Documents/GitHub/bang4buck",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
   <component name="RecentsManager">
@@ -56,6 +63,7 @@
       <recent name="C:\Users\megma\OneDrive\Documents\GitHub\Assessment-2\" />
     </key>
   </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="SvnConfiguration">
     <configuration />
   </component>
@@ -73,11 +81,12 @@
       <workItem from="1658046854407" duration="803000" />
       <workItem from="1658047669970" duration="12367000" />
       <workItem from="1658116701421" duration="17973000" />
+      <workItem from="1660371561885" duration="313000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
-    <option name="version" value="2" />
+    <option name="version" value="3" />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
     <option name="TAB_STATES">
