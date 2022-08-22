@@ -1,4 +1,3 @@
-# Bang4buck
-Repository for Group 30 - Bang4buck
+Assessment 3
 
-This is our repostiory for the bang4buck prototype website/application.
+Repository for Group 30 - Assessment 2
